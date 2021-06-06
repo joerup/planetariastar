@@ -1,0 +1,409 @@
+{
+    "stars": [
+          {
+            "name": "Sun",
+            "id": 1,
+            "mass": 1,
+            "radius": 1,
+            "temp": 5778,
+            "luminosity": 1,
+            "expanding": false
+          },
+          {
+            "name": "Alpha Centauri A",
+            "id": 2,
+            "mass": 1.106,
+            "radius": 1.27,
+            "temp": 5720,
+            "luminosity": 1.55,
+            "expanding": false
+          },
+          {
+            "name": "Alpha Centauri B",
+            "id": 3,
+            "mass": 0.937,
+            "radius": 0.96,
+            "temp": 5080,
+            "luminosity": 0.551,
+            "expanding": false
+          },
+          {
+            "name": "Proxima Centauri",
+            "id": 4,
+            "mass": 0.12,
+            "radius": 0.14,
+            "temp": 3050,
+            "luminosity": 0.00152,
+            "expanding": false
+          },
+          {
+            "name": "Sirius A",
+            "id": 5,
+            "mass": 1.99,
+            "radius": 2.09,
+            "temp": 9940,
+            "luminosity": 24.2,
+            "expanding": false
+          },
+          {
+            "name": "Sirius B",
+            "id": 6,
+            "mass": 0.98,
+            "radius": 0.8,
+            "temp": 25200,
+            "luminosity": 0.003,
+            "expanding": false
+          },
+          {
+            "name": "Procyon A",
+            "id": 7,
+            "mass": 1.48,
+            "radius": 1.9,
+            "temp": 6800,
+            "luminosity": 6.93,
+            "expanding": false
+          },
+          {
+            "name": "Procyon B",
+            "id": 8,
+            "mass": 0.59,
+            "radius": 0.12,
+            "temp": 7740,
+            "luminosity": 0.000487,
+            "expanding": false
+          },
+          {
+            "name": "Canopus",
+            "id": 9,
+            "mass": 10.1,
+            "radius": 71,
+            "temp": 7400,
+            "luminosity": 10700,
+            "expanding": false
+          },
+          {
+            "name": "Arcturus",
+            "id": 10,
+            "mass": 1.08,
+            "radius": 25.4,
+            "temp": 4286,
+            "luminosity": 170,
+            "expanding": false
+          },
+          {
+            "name": "Vega",
+            "id": 11,
+            "mass": 2.14,
+            "radius": 2.29,
+            "temp": 9600,
+            "luminosity": 40.1,
+            "expanding": false
+          },
+          {
+            "name": "Capella Aa",
+            "id": 12,
+            "mass": 2.57,
+            "radius": 11.9,
+            "temp": 4970,
+            "luminosity": 78.7,
+            "expanding": false
+          },
+          {
+            "name": "Capella Ab",
+            "id": 13,
+            "mass": 2.48,
+            "radius": 8.83,
+            "temp": 5730,
+            "luminosity": 72.7,
+            "expanding": false
+          },
+          {
+            "name": "Rigel",
+            "id": 14,
+            "mass": 21,
+            "radius": 78.9,
+            "temp": 12100,
+            "luminosity": 120000,
+            "expanding": false
+          },
+          {
+            "name": "Betelgeuse",
+            "id": 15,
+            "mass": 16.5,
+            "radius": 764,
+            "temp": 3600,
+            "luminosity": 126000,
+            "expanding": false
+          },
+          {
+            "name": "Achernar",
+            "id": 16,
+            "mass": 6.7,
+            "radius": 7.3,
+            "temp": 15000,
+            "luminosity": 3150,
+            "expanding": false
+          },
+          {
+            "name": "Polaris Aa",
+            "id": 17,
+            "mass": 5.4,
+            "radius": 37.5,
+            "temp": 6015,
+            "luminosity": 1260,
+            "expanding": false
+          },
+          {
+            "name": "Polaris B",
+            "id": 18,
+            "mass": 1.39,
+            "radius": 1.38,
+            "temp": 6900,
+            "luminosity": 3.9,
+            "expanding": false
+          },
+          {
+            "name": "Hadar Aa",
+            "id": 19,
+            "mass": 12.02,
+            "radius": 9,
+            "temp": 25000,
+            "luminosity": 31600,
+            "expanding": false
+          },
+          {
+            "name": "Hadar Ab",
+            "id": 20,
+            "mass": 10.58,
+            "radius": 9,
+            "temp": 23000,
+            "luminosity": 25100,
+            "expanding": false
+          },
+          {
+            "name": "Aldebaran",
+            "id": 21,
+            "mass": 1.16,
+            "radius": 44.13,
+            "temp": 3900,
+            "luminosity": 439,
+            "expanding": false
+          },
+          {
+            "name": "Spica A",
+            "id": 22,
+            "mass": 11.43,
+            "radius": 7.47,
+            "temp": 25300,
+            "luminosity": 20512,
+            "expanding": false
+          },
+          {
+            "name": "Spica B",
+            "id": 23,
+            "mass": 7.21,
+            "radius": 3.47,
+            "temp": 20900,
+            "luminosity": 2254,
+            "expanding": false
+          },
+          {
+            "name": "Antares A",
+            "id": 24,
+            "mass": 11,
+            "radius": 680,
+            "temp": 3660,
+            "luminosity": 75900,
+            "expanding": false
+          },
+          {
+            "name": "Antares B",
+            "id": 25,
+            "mass": 7.2,
+            "radius": 5.2,
+            "temp": 18500,
+            "luminosity": 2754,
+            "expanding": false
+          },
+          {
+            "name": "Fomalhaut A",
+            "id": 26,
+            "mass": 1.92,
+            "radius": 1.84,
+            "temp": 8590,
+            "luminosity": 16.6,
+            "expanding": false
+          },
+          {
+            "name": "Fomalhaut B",
+            "id": 27,
+            "mass": 0.73,
+            "radius": 0.69,
+            "temp": 4590,
+            "luminosity": 0.189,
+            "expanding": false
+          },
+          {
+            "name": "Altair",
+            "id": 28,
+            "mass": 1.71,
+            "radius": 1.81,
+            "temp": 7760,
+            "luminosity": 10.7,
+            "expanding": false
+          },
+          {
+            "name": "Pollux",
+            "id": 29,
+            "mass": 1.91,
+            "radius": 9.06,
+            "temp": 4586,
+            "luminosity": 32.7,
+            "expanding": false
+          },
+          {
+            "name": "Deneb",
+            "id": 30,
+            "mass": 19,
+            "radius": 203,
+            "temp": 8525,
+            "luminosity": 196000,
+            "expanding": false
+          },
+          {
+            "name": "Mimosa",
+            "id": 31,
+            "mass": 16,
+            "radius": 8.4,
+            "temp": 27000,
+            "luminosity": 34000,
+            "expanding": false
+          },
+          {
+            "name": "Regulus",
+            "id": 32,
+            "mass": 3.8,
+            "radius": 4.35,
+            "temp": 11668,
+            "luminosity": 316,
+            "expanding": false
+          },
+          {
+            "name": "Acrux Aa",
+            "id": 33,
+            "mass": 17.8,
+            "radius": 7.8,
+            "temp": 24000,
+            "luminosity": 25000,
+            "expanding": false
+          },
+          {
+            "name": "Acrux Ab",
+            "id": 34,
+            "mass": 17.8,
+            "radius": 7.8,
+            "temp": 24000,
+            "luminosity": 25000,
+            "expanding": false
+          },
+          {
+            "name": "Acrux Ba",
+            "id": 35,
+            "mass": 15.52,
+            "radius": 5.4,
+            "temp": 28000,
+            "luminosity": 16000,
+            "expanding": false
+          },
+          {
+            "name": "Acrux Bb",
+            "id": 36,
+            "mass": 15.52,
+            "radius": 5.4,
+            "temp": 28000,
+            "luminosity": 16000,
+            "expanding": false
+          },
+          {
+            "name": "Adhara",
+            "id": 37,
+            "mass": 12.6,
+            "radius": 13.9,
+            "temp": 22900,
+            "luminosity": 38700,
+            "expanding": false
+          },
+          {
+            "name": "Shaula",
+            "id": 38,
+            "mass": 14.5,
+            "radius": 8.8,
+            "temp": 25000,
+            "luminosity": 36300,
+            "expanding": false
+          },
+          {
+            "name": "Castor Aa",
+            "id": 39,
+            "mass": 2.76,
+            "radius": 2.4,
+            "temp": 10286,
+            "luminosity": 34,
+            "expanding": false
+          },
+          {
+            "name": "Gacrux",
+            "id": 40,
+            "mass": 1.5,
+            "radius": 120,
+            "temp": 3689,
+            "luminosity": 758,
+            "expanding": false
+          },
+          {
+            "name": "Bellatrix",
+            "id": 41,
+            "mass": 8.6,
+            "radius": 5.75,
+            "temp": 22000,
+            "luminosity": 9211,
+            "expanding": false
+          },
+          {
+            "name": "Elnath",
+            "id": 42,
+            "mass": 5,
+            "radius": 4.2,
+            "temp": 13824,
+            "luminosity": 700,
+            "expanding": false
+          },
+          {
+            "name": "Barnard's Star",
+            "id": 43,
+            "mass": 0.16,
+            "radius": 0.17,
+            "temp": 3340,
+            "luminosity": 0.00323,
+            "expanding": false
+          },
+          {
+            "name": "Luhman 16 A",
+            "id": 44,
+            "mass": 0.032,
+            "radius": 0.1,
+            "temp": 1330,
+            "luminosity": 0.00003,
+            "expanding": false
+          },
+          {
+            "name": "Luhman 16 B",
+            "id": 45,
+            "mass": 0.027,
+            "radius": 0.1,
+            "temp": 1260,
+            "luminosity": 0.000025,
+            "expanding": false
+          }
+     ]
+}
