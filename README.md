@@ -6,5 +6,5 @@ I created a playground called Planetaria Star which teaches users about how star
 
 ### [Demonstration Video](https://www.youtube.com/watch?v=BNZVWEaMUXU)
 
-
+<br/>
 <img src="https://github.com/joerup2004/planetariastar/blob/main/Screenshots/Planetaria%20Star%20Icon.png?raw=true" border="0" style="width:50px;height:50px">
