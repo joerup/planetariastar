@@ -1,2 +1,3 @@
-# planetariastar
-Planetaria Star - WWDC21 Swift Student Challenge Winner
+# Planetaria Star
+
+### WWDC21 Swift Student Challenge Winner
